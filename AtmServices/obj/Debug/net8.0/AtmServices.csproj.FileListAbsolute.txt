@@ -1,0 +1,12 @@
+/workspaces/increaseTestCoverage/AtmServices/bin/Debug/net8.0/AtmServices.deps.json
+/workspaces/increaseTestCoverage/AtmServices/bin/Debug/net8.0/AtmServices.dll
+/workspaces/increaseTestCoverage/AtmServices/bin/Debug/net8.0/AtmServices.pdb
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/AtmServices.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/AtmServices.AssemblyInfoInputs.cache
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/AtmServices.AssemblyInfo.cs
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/AtmServices.csproj.CoreCompileInputs.cache
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/AtmServices.sourcelink.json
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/AtmServices.dll
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/refint/AtmServices.dll
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/AtmServices.pdb
+/workspaces/increaseTestCoverage/AtmServices/obj/Debug/net8.0/ref/AtmServices.dll
